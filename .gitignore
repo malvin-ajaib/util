@@ -1,0 +1,4 @@
+.env
+*_out.json
+__pycache__/
+*.pyc

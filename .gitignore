@@ -1,4 +1,6 @@
 .env
 *_out.json
+*_out.csv
 __pycache__/
 *.pyc
+.claude
